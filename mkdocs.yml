@@ -1,9 +1,9 @@
 site_name: My Docs
 pages:
-- [index.md, Home]
-- [about.md, About]
-- [develop.md ,Dev]
-- [nn/init.md,init]
+- ['index.md', 'Home']
+- ['about.md', 'About','11']
+- ['develop.md' ,'Dev','11']
+- ['nn/init.md','init','init']
 
 
 theme: readthedocs

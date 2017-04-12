@@ -1,2 +1,2 @@
 # 神经网络初始化参数
-$ \Gamma, G$
+http://latex.codecogs.com/svg.latex?frac{1}{\pi}=\frac{2\sqrt{2}}{9801}\sum_{k=0}^\infty\frac{(4k)!(1103+26390k)}{(k!)^4396^{4k}}

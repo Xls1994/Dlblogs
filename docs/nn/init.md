@@ -1,2 +1,3 @@
 # 神经网络初始化参数
-http://latex.codecogs.com/svg.latex?frac{1}{\pi}=\frac{2\sqrt{2}}{9801}\sum_{k=0}^\infty\frac{(4k)!(1103+26390k)}{(k!)^4396^{4k}}
+选择适当的方式初始化神经网络的参数，不仅有利于模型的收敛，更容易取得更好的结果。
+![](init1.png)

@@ -3,4 +3,5 @@ pages:
 - [index.md, Home]
 - [about.md, About]
 - [develop.md ,Dev]
+- [nn\init.md,init]
 theme: readthedocs
